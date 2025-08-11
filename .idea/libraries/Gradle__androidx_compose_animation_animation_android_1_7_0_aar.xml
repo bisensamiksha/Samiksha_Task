@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.compose.animation:animation-android:1.7.0@aar" external-system-id="GRADLE">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/8.11.1/transforms/59fba7fa9bc812644311e59f647629e1/transformed/animation-release/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/8.11.1/transforms/59fba7fa9bc812644311e59f647629e1/transformed/animation-release/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/8.11.1/transforms/59fba7fa9bc812644311e59f647629e1/transformed/animation-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.12/transforms/5a0bf622539ed6f5966cfdc2a2f971b0/transformed/jetified-animation-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.12/transforms/5a0bf622539ed6f5966cfdc2a2f971b0/transformed/jetified-animation-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.12/transforms/5a0bf622539ed6f5966cfdc2a2f971b0/transformed/jetified-animation-release/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,3 +1,6 @@
+data class ApiResponse(
+    var data : Data? = Data()
+)
 
 data class Data(
     var userHolding : ArrayList<UserHolding> = arrayListOf()

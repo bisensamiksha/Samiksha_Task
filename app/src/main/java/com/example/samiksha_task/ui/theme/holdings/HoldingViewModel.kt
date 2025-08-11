@@ -1,14 +1,13 @@
 import android.util.Log
-import androidx.lifecycle.ViewModel
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
+import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.samiksha_task.data.models.Summary
 import com.example.samiksha_task.data.models.network.HoldingsRepository
 import com.example.samiksha_task.data.models.network.RetrofitInstance
 import kotlinx.coroutines.launch
-import com.example.assignmentholdings.models.UserHolding
-import com.example.samiksha_task.data.models.Summary
 
 
 class HoldingViewModel: ViewModel() {

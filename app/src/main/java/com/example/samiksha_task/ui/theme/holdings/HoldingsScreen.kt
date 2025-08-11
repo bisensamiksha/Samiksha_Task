@@ -30,7 +30,6 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.assignmentholdings.models.UserHolding
 import com.example.samiksha_task.data.models.Summary
 
 @OptIn(ExperimentalMaterial3Api::class)
