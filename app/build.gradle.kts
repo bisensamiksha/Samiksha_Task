@@ -59,4 +59,8 @@ dependencies {
 
     implementation(libs.androidx.compose.runtime)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.squareup.retrofit2)
+    implementation(libs.squareup.retrofit2.converter.gson)
+    implementation(libs.okhttp.interceptor)
+    implementation(libs.kotlinx.coroutines)
 }
