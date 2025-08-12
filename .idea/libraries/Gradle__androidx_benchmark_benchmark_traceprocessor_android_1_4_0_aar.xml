@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.benchmark:benchmark-traceprocessor-android:1.4.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/8.12/transforms/fb3c0a1e36e4750c0b3791b60e7c8fde/transformed/jetified-benchmark-traceprocessor/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/8.12/transforms/fb3c0a1e36e4750c0b3791b60e7c8fde/transformed/jetified-benchmark-traceprocessor/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.benchmark/benchmark-traceprocessor-android/1.4.0/386323a5171e5298fe22155d7c291506e3b7585c/benchmark-traceprocessor-android-1.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.benchmark/benchmark-traceprocessor-android/1.4.0/8462647e27d42c72b8fa7ec3e3a370f3c3a49799/benchmark-traceprocessor-1.4.0-samples-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
